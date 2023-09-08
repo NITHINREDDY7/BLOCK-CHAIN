@@ -1,8 +1,5 @@
 # blockchain-finance
 
-This project is Capstone project for my final year Bachelor's degree in Computer Science at Gandhi Institute of Technology and Management, India
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 It is inspired by and a practical implementation of the paper [Research of a Possibility of Using Blockchain Technology without Tokens to Protect Banking Transactions](https://ieeexplore.ieee.org/document/8657279)
 
@@ -39,10 +36,6 @@ If any hacker tries to interupt these transactions our dashboard gives pop-up sh
 <img src="src/app/dashboard/image.PNG" width = "800">
 
 
-
-## Citation
-
-N. A. Popova and N. G. Butakova, [Research of a Possibility of Using Blockchain Technology without Tokens to Protect Banking Transactions](https://ieeexplore.ieee.org/document/8657279) 2019 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), St.Petersburg and Moscow, Russia, 2019, pp. 1764-1768.
 
 
 
